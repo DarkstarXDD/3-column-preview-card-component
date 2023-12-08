@@ -10,8 +10,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 
 ### Links
-- Live Site URL:
-- Solution URL:
+- Live Site URL: https://3-column-preview-card-component-darkstarxdd.vercel.app/
+- Solution URL: https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-x5Z1JKgslJ
 #
 
 
