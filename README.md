@@ -11,7 +11,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 - Live Site URL: https://3-column-preview-card-component-darkstarxdd.vercel.app/
-- Solution URL: https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-x5Z1JKgslJ
+- Solution URL: https://www.frontendmentor.io/solutions/3column-preview-card-component-et9Z1kSS1b
 #
 
 
@@ -23,7 +23,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 
 ### New things I learned
-How to use `grid-template-columns` property.
+- How to use `grid-template-columns` property.
+- Not all images need to have text in the `alt` attribute. If you use images as icons for decoration purposes, no need to describe what that image is using an `alt` attribute. In those cases set the `alt` attribute of the `img` to be null. `alt=""`.
 #
 
 
