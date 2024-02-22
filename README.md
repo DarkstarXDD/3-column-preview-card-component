@@ -60,7 +60,7 @@ This is my solution to the ["3-Column Preview Card Component" challenge on Front
 
 - [Prettier VS Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter.
 
-- [google webfonts helper by Mario Ranftl](https://gwfh.mranftl.com/fonts) - Another tool to convert your TTF fonts to WOFF and WOFF2 formats, but much easier to use than the above.
+- [google webfonts helper by Mario Ranftl](https://gwfh.mranftl.com/fonts) - Converts TTF fonts to WOFF and WOFF2 formats.
 
 - [Color Contrast Checker by coolors.co](https://coolors.co/contrast-checker/112a46-acc8e5) - Check color contrast ratios and if needed, update the colors to match the WCAG guidelines.
 
